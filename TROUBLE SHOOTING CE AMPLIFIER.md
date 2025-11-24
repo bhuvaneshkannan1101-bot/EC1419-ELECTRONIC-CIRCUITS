@@ -8,6 +8,9 @@
 
 ## Tabulations 
 
+![WhatsApp Image 2025-11-24 at 16 14 53_3206514e](https://github.com/user-attachments/assets/b93b8609-056d-43c7-8f4b-3abd4d3fa737)
+
 ## Semilog Graph
+![WhatsApp Image 2025-11-24 at 16 14 46_91c84b63](https://github.com/user-attachments/assets/9764b6c6-d0de-4c0d-878a-13b34210af3f)
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
